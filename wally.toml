@@ -1,7 +1,13 @@
 [package]
 name = "drccastr/utils"
+authors = ["DrCastr"]
 version = "0.1.0"
+license = "MIT"
+
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json"]
 
 [dependencies]
