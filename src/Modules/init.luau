@@ -1,1 +1,3 @@
-return {}
+return {
+	TestUtils = require(script.TestUtils),
+}
