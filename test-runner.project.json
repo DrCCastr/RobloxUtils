@@ -1,0 +1,16 @@
+{
+  "name": "Utils Test Runner",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Utils": {
+        "$path": "src"
+      }
+    },
+    "ServerScriptService": {
+      "test": {
+        "$path": "test"
+      }
+    }
+  }
+}
