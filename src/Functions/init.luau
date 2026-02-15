@@ -1,1 +1,3 @@
-return {}
+return {
+	DeepEqual = require(script.DeepEqual),
+}
